@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Robert Ruai Mawich from Kenya<br><br>- 🔭 I’m a student...<br>- 📚 I'm currently learning Software Egineering<br>- ⚡ In my free time I rest</p>
 
 ###
 
